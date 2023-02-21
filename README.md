@@ -16,8 +16,7 @@ As an extension to the conventional implementation of Brandes algorithm for unwe
 
 ## Documentation
 
-The pseudo documentation of this project can be found [here](https://github.com/genpranav/Brandes-Algorithm-Betweenness-Centrality/blob/main/DAA_Final.pptx)
-> formal documentation will be up soon
+The documentation of this project can be found [here](https://iq.opengenus.org/p/dc5de000-9cce-48b5-9805-0a81c2fdb56a/)
 
 ### Socials plug
 
